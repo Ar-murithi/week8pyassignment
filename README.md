@@ -1,6 +1,6 @@
 ## COVID-19 Analysis Data Analysis ##
 This analysis analyzes COVID 19 data focusing on total deaths, cases, mortality rate, and total cases by countries
-The analysis focuses on four countries:Kenya,Spain,"India,"South Korea, and Australia
+The analysis focuses on four countries:Kenya,Spain, India,South Korea, and Australia
 
 **Project Objectives**
 -Collected global COVID-19 data from Our World in Data
